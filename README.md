@@ -15,12 +15,12 @@ $ cd Whatsapp-Osint
 $ pip install -r requirements.txt
 $ python3 Whatsapp-Osint.py
 ```
-#  API Key
+# 🗝️ API Key
 Get your API key.
 
 Name | Key |
 | ------------------- |-------------- |
-| [Whatsapp Data](https://rapidapi.com/airaudoeduardo/api/whatsapp-data1) |  (Necessary) |
+| [Whatsapp Data](https://rapidapi.com/airaudoeduardo/api/whatsapp-data1) | 🗝️ (Necessary) |
 
 - Select the free plan {limited and not all target data will appear it is recommended to upgrade apikey}.
 
